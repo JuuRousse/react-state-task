@@ -1,0 +1,25 @@
+.button {
+  border: 0;
+  width: 150px;
+  height: 70px;
+  font-size: large;
+  color: white;
+  text-transform: uppercase;
+}
+
+.red {
+  background-color: tomato;
+}
+
+.blue {
+  background-color: rgb(102, 102, 218);
+}
+
+.green {
+  background-color: limegreen;
+}
+
+.grey {
+  background-color: rgb(230, 227, 227);
+  color: black;
+}

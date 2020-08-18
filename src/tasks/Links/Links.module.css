@@ -1,0 +1,23 @@
+.list {
+  font-size: 30px;
+}
+
+.linkItem {
+  margin-bottom: 15px;
+}
+
+.link {
+  font-size: 30px;
+}
+
+.link:visited {
+  color: black;
+}
+
+.arrowUp {
+  position: fixed;
+  right: 16px;
+  bottom: 24px;
+  background-color: lightpink;
+  padding: 10px 20px;
+}

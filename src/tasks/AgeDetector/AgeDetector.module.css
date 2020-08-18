@@ -1,0 +1,12 @@
+.titleColumn {
+  width: 100%;
+  display: inline;
+  padding-right: 15px;
+}
+
+.ageOfBirth,
+.span {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}

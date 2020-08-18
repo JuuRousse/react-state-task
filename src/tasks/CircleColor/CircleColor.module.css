@@ -1,0 +1,29 @@
+.item {
+  margin-bottom: 20px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+.circle {
+  width: 400px;
+  height: 400px;
+  border: 1px solid rgb(105, 104, 104);
+  border-radius: 50%;
+}
+
+.circleRed {
+  background-color: tomato;
+  border-color: tomato;
+}
+
+.circleBlue {
+  background-color: rgb(102, 102, 218);
+  background-color: rgb(102, 102, 218);
+}
+
+.circleGreen {
+  background-color: limegreen;
+  border-color: limegreen;
+}

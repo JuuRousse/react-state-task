@@ -1,0 +1,32 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.button {
+  border: 0;
+  width: 150px;
+  height: 70px;
+  font-size: large;
+  color: white;
+  background-color: lightseagreen;
+  text-transform: uppercase;
+}
+
+.rectangle {
+  width: 200px;
+  height: 100px;
+  border: 1px solid #111111;
+  border-radius: 70%;
+  font-size: large;
+  color: #111111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: x-large;
+}
